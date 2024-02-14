@@ -1,8 +1,27 @@
-# React + Vite
+# Weather Forecast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a simple app where you can see the weather for any city. Just type in the name of the city and get the current weather, like temperature, humidity. It's quick and easy to use for checking the weather anytime."
 
-Currently, two official plugins are available:
+## Website Link
+##
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+    1. User-Friendly Interface. 
+    2. Easy to use
+
+## Getting Started
+To embark on your journey, follow these simple steps:
+    1. Clone the repository
+    2. Install dependencies `npm install`
+    3. Run server `npm run dev`
+Note- Make sure you have added your own API Key
+
+## Screenshots
+![image](https://github.com/RKSRTX76/Weather-Forecast/assets/79634846/e5578f71-3fdd-4f6f-8ea3-ef355a88994a)
+
+
+## Thank you
+Thanks for visit 🙂😃😄
+
+    
